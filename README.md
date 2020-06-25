@@ -1,4 +1,4 @@
-# Predicting product sales using AWS DeepAR (based on RNNs)
+# Predicting product sales using AWS DeepAR (RNNs)
 
 Capstone Project for the Udacity &amp; AWS's Machine Learning Engineer Nanodegree
 
